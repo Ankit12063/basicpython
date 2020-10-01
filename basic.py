@@ -3,7 +3,7 @@
 
 # importing "random" for random operations 
 import random 
-
+import numpy
 # using choice() to generate a random number from a 
 # given list of numbers. 
 print ("A random number from list is : ",end="") 
